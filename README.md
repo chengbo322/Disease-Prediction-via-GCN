@@ -1,13 +1,11 @@
-# Disease-Prediction-via-GCN
+# Reproducibility of Disease Prediction via Graph Neural Networks
 A simple implementation of the paper "Disease Prediction via Graph Neural Networks".
 
-## Requires
+## Dependencies
+The code was tested in Windows 11 with below installations:
 python >=3.6
-
 pytorch
-
 numpy
-
 sklearn
 
 ## data format
