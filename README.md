@@ -45,9 +45,13 @@ Original Repo: https://github.com/zhchs/Disease-Prediction-via-GCN
 # list of nodes for testing, [node_idx_1(int), node_idx_2(int), ....]
 ```
 
-## Run Model
+## Run The Proposed Model
 ```shell script
 python run_multi.py
+```
+## Run The Baseline Models (DT, SVM, RF, KNN and SGD)
+```shell script
+python Baselines.py
 ```
 
 
