@@ -3,9 +3,13 @@ A simple implementation of the paper "Disease Prediction via Graph Neural Networ
 
 ## Dependencies
 The code was tested in Windows 11 with below installations:
+
 python >=3.6
+
 pytorch
+
 numpy
+
 sklearn
 
 ## data format
