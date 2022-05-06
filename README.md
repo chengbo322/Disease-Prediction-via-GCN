@@ -55,5 +55,5 @@ python Baselines.py
 ```
 ## Main Reproducibility Result
 ![image](https://user-images.githubusercontent.com/70998318/167065204-a795698c-e37a-4890-933f-93e3330ecd65.png)
-
+*Top-K diseases in each patient’s prediction result
 
