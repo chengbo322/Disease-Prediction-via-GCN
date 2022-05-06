@@ -12,6 +12,11 @@ numpy
 
 sklearn
 
+## Citation to the original paper
+Sun Z, Yin H, Chen H, et al. Disease prediction via graph neural networks[J]. IEEE Journal of Biomedical and
+Health Informatics, 2020, 25(3): 818-826.
+https://github.com/zhchs/Disease-Prediction-via-GCN
+
 ## Data format in data/sample_data folder
 ```shell script
 "filename.nodes.pkl"
