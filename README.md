@@ -53,5 +53,7 @@ python run_multi.py
 ```shell script
 python Baselines.py
 ```
+## Main Reproducibility Result
 
+![image](https://user-images.githubusercontent.com/70998318/167065068-61fbfb71-884b-48df-9f74-1e646b3a424b.png)
 
