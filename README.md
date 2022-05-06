@@ -12,7 +12,7 @@ numpy
 
 sklearn
 
-## data format
+## Data format in data/sample_data folder
 ```shell script
 "filename.nodes.pkl"
 # list of node: [node1(str), node2(str), node3(str), ...]
